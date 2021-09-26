@@ -3,9 +3,10 @@ from modloader.modclass import Mod, loadable_mod
 
 @loadable_mod
 class AWSWMod(Mod):
-    @staticmethod
-    def mod_info():
-        return ("Side Images", "v1.0", "4onen", False)
+    name="Side Images"
+    version="v1.3"
+    author="4onen"
+    nsfw=False
 
     @staticmethod
     def mod_load():
