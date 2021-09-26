@@ -55,6 +55,14 @@ image side anna disgust b = im.Flip(im.Scale(im.Crop("cr/anna_disgust_b.png",(30
 image side anna rage b = im.Flip(im.Scale(im.Crop("cr/anna_rage_b.png",(30,35,500,600)),250,300),horizontal=True)
 image side anna cry b = im.Flip(im.Scale(im.Crop("cr/anna_cry_b.png",(30,35,500,600)),250,300),horizontal=True)
 image side anna despair b = im.Flip(im.Scale(im.Crop("cr/anna_despair_b.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna normal c = im.Flip(im.Scale(im.Crop("cr/anna_normal_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna face c = im.Flip(im.Scale(im.Crop("cr/anna_face_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna smirk c = im.Flip(im.Scale(im.Crop("cr/anna_smirk_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna sad c = im.Flip(im.Scale(im.Crop("cr/anna_sad_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna disgust c = im.Flip(im.Scale(im.Crop("cr/anna_disgust_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna rage c = im.Flip(im.Scale(im.Crop("cr/anna_rage_c.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna cry e = im.Flip(im.Scale(im.Crop("cr/anna_cry_e.png",(30,35,500,600)),250,300),horizontal=True)
+image side anna cry f = im.Flip(im.Scale(im.Crop("cr/anna_cry_f.png",(30,35,500,600)),250,300),horizontal=True)
 image side anna = 'side anna normal'
 # adine (50,0,500,600) 250,300
 image side adine normal = im.Flip(im.Scale(im.Crop("cr/adine_normal.png",(50,0,500,600)),250,300),horizontal=True)

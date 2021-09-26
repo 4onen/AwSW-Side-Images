@@ -55,6 +55,14 @@ disgust b
 rage b
 cry b
 despair b
+normal c
+face c
+smirk c
+sad c
+disgust c
+rage c
+cry e
+cry f
 
 c adine (50,0,500,600) 250,300
 normal
