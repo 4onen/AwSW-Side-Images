@@ -120,7 +120,7 @@ image side bryce stern b = im.Scale(im.Crop("cr/bryce_stern_b_flip.png",(400,40,
 image side bryce stern old = im.Scale(im.Crop("cr/bryce_stern_old_flip.png",(400,40,500,600)),250,300)
 image side bryce stern b old = im.Scale(im.Crop("cr/bryce_stern_b_old_flip.png",(400,40,500,600)),250,300)
 image side bryce angry = im.Scale(im.Crop("cr/bryce_angry_flip.png",(400,40,500,600)),250,300)
-image side bryce angry b = im.Scale(im.Crop("cr/bryce_angry_b_flip.png",(400,40,500,600)),250,300)
+# No bryce_angry_b_flip.png. Losing the badge is better than gaining a scar.
 image side bryce angry old = im.Scale(im.Crop("cr/bryce_angry_old_flip.png",(400,40,500,600)),250,300)
 image side bryce angry b old = im.Scale(im.Crop("cr/bryce_angry_b_old_flip.png",(400,40,500,600)),250,300)
 image side bryce sad = im.Scale(im.Crop("cr/bryce_sad_flip.png",(400,40,500,600)),250,300)

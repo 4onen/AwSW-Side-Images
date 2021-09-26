@@ -121,7 +121,7 @@ stern b
 stern old
 stern b old
 angry
-angry b
+$ # No bryce_angry_b_flip.png. Losing the badge is better than gaining a scar.
 angry old
 angry b old
 sad
