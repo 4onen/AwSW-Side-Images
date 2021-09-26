@@ -1,0 +1,417 @@
+c lorem (300,0,500,500) 250,250
+normal
+happy
+relieved
+sad
+shy
+think
+normal b
+happy b
+relieved b
+sad b
+shy b
+think b
+
+c remy (5,30,500,600) 250,300
+normal
+happy
+angry
+look
+sad
+shy
+normal b
+happy b
+angry b
+look b
+sad b
+shy b
+normal c
+happy c
+angry c
+look c
+sad c
+shy c
+normal d
+happy d
+angry d
+look d
+sad d
+shy d
+
+c anna (30,35,500,600) 250,300
+normal
+face
+smirk
+sad
+disgust
+rage
+cry
+despair
+normal b
+face b
+smirk b
+sad b
+disgust b
+rage b
+cry b
+despair b
+
+c adine (50,0,500,600) 250,300
+normal
+giggle
+disappoint
+annoyed
+sad
+think
+frustrated
+normal b
+giggle b
+disappoint b
+annoyed b
+sad b
+think b
+frustrated b
+normal c
+giggle c
+disappoint c
+annoyed c
+sad c
+think c
+frustrated c
+normal d
+giggle d
+disappoint d
+annoyed d
+sad d
+think d
+frustrated d
+f image side adine = 'side adine normal b'
+
+cf bryce (400,40,500,600) 250,300
+normal
+normal b
+normal old
+normal b old
+brow
+brow b
+brow old
+$ # brow old b needs special flipping
+flirty
+flirty b
+$ # flirty old needs special flipping
+flirty b old
+laugh
+laugh b
+laugh old
+laugh b old
+smirk
+smirk b
+smirk old
+smirk b old
+stern
+stern b
+stern old
+stern b old
+angry
+angry b
+angry old
+angry b old
+sad
+$ # No bryce_sad_b_flip.png. Losing the badge is better than gaining a scar.
+
+ccbf bryce (400,40,500,600) 250,300
+brow b old
+flirty old
+$ # Jeez Bryce. You've just got all the special casing, huh?
+
+c maverick (0,0,500,600) 250,300
+normal
+angry
+nice
+scared
+laugh
+rage
+normal b
+angry b
+nice b
+scared b
+laugh b
+rage b
+normal c
+angry c
+nice c
+scared c
+laugh c
+rage c
+normal d
+angry d
+nice d
+scared d
+laugh d
+rage d
+
+c sebastian (70,0,500,600) 250,300
+normal
+shy
+disapproval
+drop
+smile
+normal b
+shy b
+disapproval b
+drop b
+smile b
+f image side sebastian = 'side sebastian normal b'
+
+cuf reza (375,0,500,600) 250,300
+normal
+amused
+annoyed
+angry
+gunpoint
+gunself
+laugh
+defeat
+rage
+annoyed b
+gunself b
+angry b
+gunpoint b
+
+c zhong (50,0,500,600) 250,300
+normal
+serv
+shy
+smile
+normal b
+serv b
+shy b
+smile b
+normal c
+serv c
+shy c
+smile c
+
+c vara (0,0,500,500) 250,250
+normal
+none
+sad
+growl
+shocked
+shocked2
+
+cf amely (150,0,500,500) 250,250
+normal
+
+c damion (30,0,500,600) 250,300
+normal
+face
+arrogant
+
+c emera (0,0,500,600) 250,300
+normal
+frown
+laugh
+mean
+ques
+normal b
+frown b
+laugh b
+mean b
+ques b
+
+c ipsum (100,40,500,600) 250,300
+normal
+happy
+sad
+think
+
+c kevin (40,0,500,600) 250,300
+normal
+ramble
+face
+brow
+
+c katsu (0,200,500,600) 250,300
+normal
+exhausted
+excited
+smile
+
+c izumi (35,0,250,300) 250,300
+normal
+normal 1
+normal 2
+normal 3
+normal 4
+normal 5
+normal 6
+normal 7
+normal 1 scar
+normal 2 scar
+normal 3 scar
+normal 4 scar
+normal 5 scar
+normal 6 scar
+normal 7 scar
+normal 1 b
+normal 2 b
+normal 3 b
+normal 4 b
+normal 5 b
+normal 6 b
+normal 7 b
+normal 1 c
+normal 2 c
+normal 3 c
+normal 4 c
+normal 5 c
+normal 6 c
+normal 7 c
+normal 1 d
+normal 2 d
+normal 3 d
+normal 4 d
+normal 5 d
+normal 6 d
+normal 7 d
+
+c xith (15,25,500,600) 250,300
+normal
+
+c ophinia (0,0,500,600) 250,300
+normal
+
+$ # c miles (50,0,500,600) 250,300
+$ # angry
+$ # growl
+$ # angry b
+$ # growl b
+
+c leymas (85,20,500,600) 250,300
+normal
+
+c 8th (80,15,500,600) 250,300
+normal
+
+c dramavian (90,165,500,600) 250,300
+normal
+
+c kalinth (80,100,500,600) 250,300
+normal
+
+c lucius (15,15,500,600) 250,300
+normal
+
+c grey (50,165,500,600) 250,300
+normal
+
+c heinz (40,0,250,300) 250,300
+normal
+
+c francois (10,0,250,300) 250,300
+normal
+
+c sybil (70,90,250,300) 250,300
+normal
+
+$ ################################
+$ # MOD SUPPORT BELOW THIS POINT #
+$ ################################
+$ # ECK Coremod:
+
+c naomi (70,80,500,600) 250,300
+normal
+normal b
+normal d
+angry
+angry b
+angry c
+annoyed
+annoyed b
+bacon
+blank
+blank b
+blank d
+cry
+cry b
+cry d
+crysmile
+crysmile b
+concern
+concern b
+concern d
+confused
+confused b
+confused d
+hurt
+hurt b
+hurt d
+sad
+sad b
+slsmile
+slsmile b
+shy
+shy b
+scared
+scared b
+smile
+smile b
+smile d
+stern
+stern b
+stern c
+surprised
+surprisedblush
+
+c river (130,200,500,500) 250,250
+normal
+
+c areth (35,120,500,600) 250,300
+normal
+normal b
+
+c renelia (60,140,500,600) 250,300
+normal
+normal b
+
+c rain (200,150,500,600) 250,300
+$ image side rain normal = im.Flip(im.Scale(im.Crop("cr/raindash_normal.png",(200,150,500,600)),250,300),horizontal=True)
+
+c rivet (90,0,500,600) 250,300
+$ image side rivet normal = im.Flip(im.Scale(im.Crop("cr/alexander_normal.png",(90,0,500,600)),250,300),horizontal=True)
+
+c selvy (60,110,500,600) 250,300
+$ image side selvy normal = im.Flip(im.Scale(im.Crop("cr/selvyrin_normal.png",(60,110,500,600)),250,300),horizontal=True)
+
+cc anna (30,35,500,600) 250,300
+sleep
+sleep b
+slsmirk
+slsmirk b
+ntdespair
+cryface
+slsad
+slsad b
+slneutral
+slblush
+slblush2
+blush
+embarrassed
+brow
+
+ccf bryce (400,40,500,600) 250,300
+wink
+
+cc maverick (0,0,500,600) 250,300
+relief
+relief c
+sideeye
+sideeye b
+
+ccf amely (150,0,500,500) 250,250
+sad
+
+ccf amely (180,114,500,500) 250,250
+smnormal
+smsad
