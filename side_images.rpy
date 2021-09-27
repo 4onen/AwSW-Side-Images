@@ -86,13 +86,9 @@ image side adine annoyed c = im.Flip(im.Scale(im.Crop("cr/adine_annoyed_c.png",(
 image side adine sad c = im.Flip(im.Scale(im.Crop("cr/adine_sad_c.png",(50,0,500,600)),250,300),horizontal=True)
 image side adine think c = im.Flip(im.Scale(im.Crop("cr/adine_think_c.png",(50,0,500,600)),250,300),horizontal=True)
 image side adine frustrated c = im.Flip(im.Scale(im.Crop("cr/adine_frustrated_c.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine normal d = im.Flip(im.Scale(im.Crop("cr/adine_normal_d.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine giggle d = im.Flip(im.Scale(im.Crop("cr/adine_giggle_d.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine disappoint d = im.Flip(im.Scale(im.Crop("cr/adine_disappoint_d.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine annoyed d = im.Flip(im.Scale(im.Crop("cr/adine_annoyed_d.png",(50,0,500,600)),250,300),horizontal=True)
 image side adine sad d = im.Flip(im.Scale(im.Crop("cr/adine_sad_d.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine think d = im.Flip(im.Scale(im.Crop("cr/adine_think_d.png",(50,0,500,600)),250,300),horizontal=True)
-image side adine frustrated d = im.Flip(im.Scale(im.Crop("cr/adine_frustrated_d.png",(50,0,500,600)),250,300),horizontal=True)
+image side adine sad e = im.Flip(im.Scale(im.Crop("cr/adine_sad_e.png",(50,0,500,600)),250,300),horizontal=True)
+image side adine sad f = im.Flip(im.Scale(im.Crop("cr/adine_sad_f.png",(50,0,500,600)),250,300),horizontal=True)
 image side adine = 'side adine normal b'
 # flip bryce (400,40,500,600) 250,300
 image side bryce normal = im.Scale(im.Crop("cr/bryce_normal_flip.png",(400,40,500,600)),250,300)
@@ -122,7 +118,7 @@ image side bryce stern b old = im.Scale(im.Crop("cr/bryce_stern_b_old_flip.png",
 image side bryce angry = im.Scale(im.Crop("cr/bryce_angry_flip.png",(400,40,500,600)),250,300)
 # No bryce_angry_b_flip.png. Losing the badge is better than gaining a scar.
 image side bryce angry old = im.Scale(im.Crop("cr/bryce_angry_old_flip.png",(400,40,500,600)),250,300)
-image side bryce angry b old = im.Scale(im.Crop("cr/bryce_angry_b_old_flip.png",(400,40,500,600)),250,300)
+image side bryce angry old b = im.Scale(im.Crop("cr/bryce_angry_old_b_flip.png",(400,40,500,600)),250,300)
 image side bryce sad = im.Scale(im.Crop("cr/bryce_sad_flip.png",(400,40,500,600)),250,300)
 # No bryce_sad_b_flip.png. Losing the badge is better than gaining a scar.
 image side bryce = 'side bryce normal'
@@ -193,7 +189,6 @@ image side zhong serv b = im.Flip(im.Scale(im.Crop("cr/zhong_serv_b.png",(50,0,5
 image side zhong shy b = im.Flip(im.Scale(im.Crop("cr/zhong_shy_b.png",(50,0,500,600)),250,300),horizontal=True)
 image side zhong smile b = im.Flip(im.Scale(im.Crop("cr/zhong_smile_b.png",(50,0,500,600)),250,300),horizontal=True)
 image side zhong normal c = im.Flip(im.Scale(im.Crop("cr/zhong_normal_c.png",(50,0,500,600)),250,300),horizontal=True)
-image side zhong serv c = im.Flip(im.Scale(im.Crop("cr/zhong_serv_c.png",(50,0,500,600)),250,300),horizontal=True)
 image side zhong shy c = im.Flip(im.Scale(im.Crop("cr/zhong_shy_c.png",(50,0,500,600)),250,300),horizontal=True)
 image side zhong smile c = im.Flip(im.Scale(im.Crop("cr/zhong_smile_c.png",(50,0,500,600)),250,300),horizontal=True)
 image side zhong = 'side zhong normal'
@@ -374,10 +369,10 @@ image side river = 'side river normal'
 image side areth normal = im.Flip(im.Scale(im.Crop("cr/areth_normal.png",(35,120,500,600)),250,300),horizontal=True)
 image side areth normal b = im.Flip(im.Scale(im.Crop("cr/areth_normal_b.png",(35,120,500,600)),250,300),horizontal=True)
 image side areth = 'side areth normal'
-# renelia (60,140,500,600) 250,300
-image side renelia normal = im.Flip(im.Scale(im.Crop("cr/renelia_normal.png",(60,140,500,600)),250,300),horizontal=True)
-image side renelia normal b = im.Flip(im.Scale(im.Crop("cr/renelia_normal_b.png",(60,140,500,600)),250,300),horizontal=True)
-image side renelia = 'side renelia normal'
+# reneila (60,140,500,600) 250,300
+image side reneila normal = im.Flip(im.Scale(im.Crop("cr/reneila_normal.png",(60,140,500,600)),250,300),horizontal=True)
+image side reneila normal b = im.Flip(im.Scale(im.Crop("cr/reneila_normal_b.png",(60,140,500,600)),250,300),horizontal=True)
+image side reneila = 'side reneila normal'
 # rain (200,150,500,600) 250,300
 image side rain normal = im.Flip(im.Scale(im.Crop("cr/raindash_normal.png",(200,150,500,600)),250,300),horizontal=True)
 image side rain = 'side rain normal'

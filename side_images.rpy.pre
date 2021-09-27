@@ -86,13 +86,9 @@ annoyed c
 sad c
 think c
 frustrated c
-normal d
-giggle d
-disappoint d
-annoyed d
 sad d
-think d
-frustrated d
+sad e
+sad f
 f image side adine = 'side adine normal b'
 
 cf bryce (400,40,500,600) 250,300
@@ -123,7 +119,7 @@ stern b old
 angry
 $ # No bryce_angry_b_flip.png. Losing the badge is better than gaining a scar.
 angry old
-angry b old
+angry old b
 sad
 $ # No bryce_sad_b_flip.png. Losing the badge is better than gaining a scar.
 
@@ -196,7 +192,6 @@ serv b
 shy b
 smile b
 normal c
-serv c
 shy c
 smile c
 
@@ -379,7 +374,7 @@ c areth (35,120,500,600) 250,300
 normal
 normal b
 
-c renelia (60,140,500,600) 250,300
+c reneila (60,140,500,600) 250,300
 normal
 normal b
 
